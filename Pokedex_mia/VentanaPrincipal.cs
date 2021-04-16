@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace PruebaBBDD
 {
     public partial class VentanaPrincipal : Form
-    {
+    { 
         public VentanaPrincipal()
         {
             InitializeComponent();
